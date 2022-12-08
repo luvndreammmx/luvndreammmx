@@ -1,2 +1,2 @@
 - 👋 Hi, I’m dreammm!
-- Ukraine/15 years. beginner Python/CC+
+- Ukraine/15 years. beginner Python/C++
